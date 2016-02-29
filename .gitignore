@@ -1,0 +1,9 @@
+*.hlpr
+*.pyc
+pickled_dict
+*.pdf
+.ipynb_checkpoints
+*.pkl.gz
+*.gz
+*.pkl
+*.mp4
